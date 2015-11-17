@@ -13,7 +13,7 @@ Folder help:
 
  |- c_ext: compiled version, but not archived (zip archive)
  
- |- c_aech: compiled version, archived (BlueX_[Version].zip)
+ |- c_arch: compiled version, archived (BlueX_[Version].zip)
  
 -archive: old versions, not compiled and archived.
 
