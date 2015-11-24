@@ -1,0 +1,3 @@
+To start compile type this command to command prompt in Python folder.
+
+python [compiler_file_name.py] py2exe  and press Enter
