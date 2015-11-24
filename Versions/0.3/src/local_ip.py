@@ -7,3 +7,4 @@ s.connect(("duckduckgo.com",80))
 os.system("clear")
 print (s.getsockname()[0])
 s.close()
+sleep
